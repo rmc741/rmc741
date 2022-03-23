@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá! Eu sou o Rafael Mendonça 🖐️
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xrafaelcarvalhox)
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple)
+
+## Tecnologias que eu uso no meu dia
 
 <!--
 **rmc741/rmc741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
