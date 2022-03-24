@@ -1,6 +1,9 @@
 ## Olá! Eu sou o Rafael Mendonça 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xrafaelcarvalhox)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendon%C3%A7a-de-carvalho-099b65211/)
+
+
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple)
 
@@ -17,6 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Rafaelzin#5150)
 **rmc741/rmc741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
