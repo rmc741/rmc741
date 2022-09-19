@@ -16,6 +16,7 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
   <img align="center" alt="postgreesql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  
   <img align="center" alt="github" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  ![Snake animation](https://github.com/rmc741/rmc741/blob/output/github-contribution-grid-snake.svg)
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple)
