@@ -19,13 +19,14 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple)
+![Snake animation](https://github.com/rmc741/rmc741/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Rafaelzin#5150)
 **rmc741/rmc741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Snake animation](https://github.com/rmc741/rmc741/blob/output/github-contribution-grid-snake.svg)
+
 
 Here are some ideas to get you started:
 
