@@ -19,7 +19,7 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
 
 ## Contatos
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xrafaelcarvalhox)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael__dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendon%C3%A7a-de-carvalho-099b65211/)
 
 ![Snake animation](https://github.com/rmc741/rmc741/blob/output/github-contribution-grid-snake.svg)
