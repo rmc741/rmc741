@@ -2,12 +2,11 @@
 Sou estudante de Engenharia de Computação e atualmente trabalho como desenvolvedor Backend usando Java.
 Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qualidade.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xrafaelcarvalhox)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendon%C3%A7a-de-carvalho-099b65211/)
-
-
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple)
+<div align="center">
+  <a href="https://github.com/rmc741">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
@@ -18,7 +17,11 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
   <img align="center" alt="github" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple)
+## Contatos
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xrafaelcarvalhox)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-mendon%C3%A7a-de-carvalho-099b65211/)
+
 ![Snake animation](https://github.com/rmc741/rmc741/blob/output/github-contribution-grid-snake.svg)
 
 <!--
