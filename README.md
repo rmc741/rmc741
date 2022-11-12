@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Rafael Mendonça 🖐️
 Sou estudante de Engenharia de Computação e atualmente trabalho como desenvolvedor Backend usando Java.
 Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qualidade.
-
 <div align="center">
   <a href="https://github.com/rmc741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple"/>
@@ -17,8 +16,7 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
   <img align="center" alt="github" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-## Contatos
-  
+## Contatos  
 <p>
 	<a href="https://github.com/rmc741"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rafael-mendon%C3%A7a-de-carvalho-099b65211/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
