@@ -4,8 +4,8 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
 
 <div align="center">
   <a href="https://github.com/rmc741">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
