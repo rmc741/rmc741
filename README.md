@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Rafael Mendonça 🖐️
 Sou estudante de Engenharia de Computação e atualmente trabalho como desenvolvedor Backend usando Java.
 Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qualidade.
-<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rmc741&theme=midnight-purple)](https://git.io/streak-stats)
+<div align="left">
   <a href="https://github.com/rmc741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmc741&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmc741&layout=compact&theme=midnight-purple"/>
