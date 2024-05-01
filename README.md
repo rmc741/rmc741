@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Rafael Mendonça 🖐️
-Sou estudante de Engenharia de Computação e atualmente trabalho como desenvolvedor Backend usando Java.
+Sou estudante de Engenharia de Computação e atualmente trabalho como desenvolvedor Backend usando Java e C#.
 Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qualidade.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rmc741&theme=midnight-purple)](https://git.io/streak-stats)
