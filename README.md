@@ -25,5 +25,3 @@ Uso esse git para meus estudos e um dia virar um desenvolvedor FullStack de qual
 	<a href="https://www.linkedin.com/in/rafael-mendon%C3%A7a-de-carvalho-099b65211/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/rafael__dev/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-
-![Snake animation](https://github.com/rmc741/rmc741/blob/output/github-contribution-grid-snake.svg)
